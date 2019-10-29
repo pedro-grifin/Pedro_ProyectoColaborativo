@@ -17,6 +17,7 @@ public class Aciertos {
         int n = 0,cont = 0;
         int x = (int) ((Math.random()*(50-10)+10));
         //System.out.print(x);
+        
         Scanner sc = new Scanner(System.in);
         do {
             System.out.print("\nIntroduce el valor de X: ");
